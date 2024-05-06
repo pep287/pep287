@@ -20,6 +20,10 @@ Howdy! I'm **Pedro Mota Mendes**, known here by **pep287**.
 ![](https://github.com/pep287/pep287/blob/main/ba665b4f6682ed1d68bdfd6357a224ad.gif)
 
 
+# Stats/Estatisticas 📊
+
+[![pep287's GitHub stats](https://github-readme-stats.vercel.app/api?username=pep287&show_icons=true&theme=radical)
+
 <!--
 **pep287/pep287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
