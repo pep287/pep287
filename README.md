@@ -1,4 +1,13 @@
-### Hi there 👋
+# Sup there!/ Oi ai!👋
+
+English:
+
+Howdy! I'm **Pedro Mota Mendes**, known here by **pep287**.
+- 📕 I’m currently studying Computer Science on Universidade Catolica de Pernambuco (UNICAP)
+- 💻 As a student, I have a huge passion for technology, and an extreme desire to learn and produce in this field.
+- I'm still learning Python, and I'm curious about learning Javascript and C#
+# Hope we get along!
+
 
 <!--
 **pep287/pep287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
