@@ -7,6 +7,7 @@ Howdy! I'm **Pedro Mota Mendes**, known here by **pep287**.
 - 💻 As a student, I have a huge passion for technology, and an extreme desire to learn and produce in this field.
 - I'm still learning Python, and I'm curious about learning Javascript and C#
 # Hope we get along!
+![](https://github.com/pep287/pep287/blob/main/ba665b4f6682ed1d68bdfd6357a224ad.gif)
 
 
 <!--
