@@ -1,7 +1,7 @@
 <h3><p align='center'>Computer Science Student at UNICAP | Mobile, Web & Systems Development</p></h3>
 
 * Passionate about Game Development and Systems Programming
-* Working on projects with raylib/C and Java
+* Working on projects with Java, Python, C and React(Native/JS)
 * Interested in Application Development and Open Source
 * Fun Fact: Linux enthusiast running CachyOS/KDE on Wayland
 
